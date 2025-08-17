@@ -52,7 +52,7 @@ EOF
 
 cat > /etc/systemd/system/abe.service << EOF
 [Unit]
-Description=Python3 App Service
+Description=Bot Telegram
 After=network.target
 
 [Service]
